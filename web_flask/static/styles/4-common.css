@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-/*
- * === Global style ===
- */
-
-/* Body style */
-body {
-  color: #484848;
-  font: 14px Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-/* Container style */
-.container {
-  margin: 30px auto;
-  max-width: 1000px;
-}
-
-/* Strong style */
-strong {
-  font-weight: bold;
-=======
 body {
     margin: 0;
     padding: 0;
@@ -33,5 +12,4 @@ body {
     margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
->>>>>>> 212529db4b955a72d996660137790c2497399ff5
 }
